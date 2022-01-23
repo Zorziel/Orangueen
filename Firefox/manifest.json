@@ -1,0 +1,50 @@
+{
+  "manifest_version": 2,
+  "version": "1.2",
+  "name": "Orangueen",
+  "theme": {
+    "images": {
+      "additional_backgrounds": [
+        "images/0.png"
+      ]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": [
+        "center top"
+      ],
+      "additional_backgrounds_tiling": [
+        "repeat"
+      ]
+    },
+    "colors": {
+		"toolbar": "rgb(48, 48, 48)",
+		"toolbar_text": "#ff5e00",
+		"frame": "rgb(0, 0, 0)",
+		"tab_background_text": "rgb(130, 130, 130)",
+		"toolbar_field": "rgb(23, 23, 23)",
+		"toolbar_field_text": "#ff5e00",
+		"toolbar_field_border_focus": "#009dff",
+		"toolbar_field_highlight": "#29e100",
+		"toolbar_field_highlight_text": "rgb(23, 23, 23)",
+		"popup": "rgb(35, 35, 35)",
+		"popup_text": "#009dff",
+		"tab_loading": "#29e100",
+		"ntp_background": "rgb(48, 48, 48)",
+		"ntp_text": "#ff5e00",
+		"sidebar": "rgb(35, 35, 35)",
+		"sidebar_text": "#009dff",
+		"bookmark_text": "#009dff", 
+		"icons_attention": "#29e100",
+		"popup_highlight": "#009dff",
+		"popup_highlight_text": "rgb(23, 23, 23)",
+		"sidebar_highlight": "#009dff",
+		"sidebar_highlight_text": "rgb(23, 23, 23)",
+		"tab_line": "rgb(69, 69, 69)",
+		"tab_selected": "rgb(48, 48, 48)",
+		"tab_text": "#29e100",
+		"toolbar_field_border": "rgb(23, 23, 23)",
+		"toolbar_top_separator": "rgb(23, 23, 23)",
+		"popup_border": "rgb(35, 35, 35)"
+    }
+  }
+}
