@@ -1,11 +1,14 @@
 # Orangueen 
-This repository contains themes for apps and sites, including styled after my Orangueen theme.  For exmaples, please see the screenshots section below or [zorz.org's about page](https://zorz.org/about.html), which is using the QOwnNotes as a theme for the about page right now.  
+This repository contains themes for various apps and sites, styled after my Orangueen theme.  
+
+For exmaples, please see the [screenshots](https://github.com/Zorziel/Orangueen#screenshots) section below or check out [zorz.org's privacy policy page](https://zorz.org/about.html).  
 
 ---
 
 # TO-DO 
 - [ ] Add a ToC
 - [ ] Add theme folders for other apps
+  - [ ] CSS
   - [ ] Firefox
   - [ ] PaleMoon
   - [ ] Chrome
@@ -20,7 +23,11 @@ Table of Contents:
 
 ## Fonts
 
-For fonts, I am using the [SIL Open Font License (OFL)](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL&_sc=1) licensed [Orbitron](https://www.theleagueofmoveabletype.com/orbitron) and [Russo One](https://fonts.google.com/specimen/Russo+One).  
+For fonts, I am using the following fonts: 
+ - [Orbitron](https://www.theleagueofmoveabletype.com/orbitron) 
+ - [Russo One](https://fonts.google.com/specimen/Russo+One).  
+
+All fonts listed are licensed under the [SIL Open Font License (OFL)](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL&_sc=1) 
 
 ---
 
