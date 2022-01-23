@@ -1,5 +1,6 @@
 # Orangueen for QOwnNotes
-Various themes styled after my Orangueen theme.  
+
+https://github.com/Zorziel/Orangueen
 
 ![image](https://user-images.githubusercontent.com/46036567/150677330-8711bfaf-5d5d-471d-8d02-b30a31c576d7.png)
 
