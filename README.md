@@ -3,6 +3,19 @@ Various themes styled after my Orangueen theme.
 
 ---
 
+# TO-DO 
+- [ ] Add a ToC
+- [ ] Add theme folders for other apps
+  - [ ] Firefox
+  - [ ] PaleMoon
+  - [ ] Chrome
+  - [ ] Edge
+  - [ ] Terminal
+  - [ ] VSCode/VSCodium
+
+
+---
+
 Table of Contents:
 
 ## Fonts
