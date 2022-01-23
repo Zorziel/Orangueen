@@ -1,5 +1,5 @@
 # Orangueen 
-Various themes styled after my Orangueen theme.  
+This repository contains themes for apps and sites, including styled after my Orangueen theme.  For exmaples, please see the screenshots section below or [zorz.org's about page](https://zorz.org/about.html), which is using the QOwnNotes as a theme for the about page right now.  
 
 ---
 
