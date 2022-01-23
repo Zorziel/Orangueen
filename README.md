@@ -36,6 +36,10 @@ All fonts listed are licensed under the [SIL Open Font License (OFL)](https://sc
 ![image](https://user-images.githubusercontent.com/46036567/150677330-8711bfaf-5d5d-471d-8d02-b30a31c576d7.png)
 
 ## Installing
+### Easy Method
+> Pending https://github.com/pbek/QOwnNotes/issues/2405 and https://github.com/pbek/QOwnNotes/milestone/596
+
+
 ### Manual Install
 1. Download the [Orangueen.ini](https://github.com/Zorziel/Orangueen/blob/main/Orangueen.ini) file to any location on your computer.  
 2. Open QOwnNotes  
