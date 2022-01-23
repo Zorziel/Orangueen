@@ -30,3 +30,6 @@ For fonts, I am using the [SIL Open Font License (OFL)](https://scripts.sil.org/
 
 ### Preview Window
 ![image](https://user-images.githubusercontent.com/46036567/150677304-2210a527-a77f-40a5-827c-4fb6d743556b.png)
+
+### Side-by-Side
+![image](https://user-images.githubusercontent.com/46036567/150680510-6e6edd4a-95a7-4340-aa6f-620ef5f23906.png)
