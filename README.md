@@ -3,7 +3,7 @@ This repository contains Orangueen themes for various apps and sites.
 
 Orangueen originally started as an attempt to theme my various apps like my [Dark Gold theme](https://github.com/Zorziel/Dark-Gold), but then grew into something much more.  Orangueen is meant for dark themes, with orange being the important header, title and code bits; blue for non-critical headers and quotes, and green for various formatting; which all results in a nice, dark theme with pops of color throughout.  
 
-The Name `Orangueen` is just a contraction of **Orang**eBl**ue**Gr**een**
+The Name `Orangueen` is just a contraction of **Orang**e + Bl**ue** + Gre**en** 
 
 For exmaples, please see the [screenshots](https://github.com/Zorziel/Orangueen#screenshots) section below or check out [zorz.org's privacy policy page](https://zorz.org/about.html).  
 
