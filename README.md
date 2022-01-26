@@ -3,6 +3,7 @@ This repository contains Orangueen themes for various apps and sites.
 
 This is still a work in progress.. please be  patient!
 
+**If you have any feedback on any component or colors or a problem using it in any application, please submit an [issue](https://github.com/Zorziel/Orangueen/issues)!** 
 
 
 Orangueen originally started as an attempt to theme my various apps like my [Dark Gold theme](https://github.com/Zorziel/Dark-Gold), but then grew into something much more.  Orangueen is meant for dark themes, with orange being the important header, title and code bits; blue for non-critical headers and quotes, and green for various formatting; which all results in a nice, dark theme with pops of color throughout.  
@@ -44,7 +45,7 @@ All fonts listed are licensed under the [SIL Open Font License (OFL)](https://sc
 
 ---
 
-# Using This Theme in an Applications
+# Using Orangueen in Applications
 
 ## QOwnNotes
 
