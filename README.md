@@ -1,6 +1,10 @@
 # Orangueen 
 This repository contains Orangueen themes for various apps and sites.  
 
+This is still a work in progress.. please be  patient!
+
+
+
 Orangueen originally started as an attempt to theme my various apps like my [Dark Gold theme](https://github.com/Zorziel/Dark-Gold), but then grew into something much more.  Orangueen is meant for dark themes, with orange being the important header, title and code bits; blue for non-critical headers and quotes, and green for various formatting; which all results in a nice, dark theme with pops of color throughout.  
 
 The Name `Orangueen` is just a contraction of **Orang**~~e~~ + ~~Bl~~**ue** + ~~Gre~~**en** (or **Orang**~~e~~ + ~~Bl~~**u**~~e~~ + ~~Gr~~**een** )
@@ -10,7 +14,8 @@ For exmaples, please see the [screenshots](https://github.com/Zorziel/Orangueen#
 ---
 
 # TO-DO 
-- [ ] Add a ToC
+- [ ] Add a ToC 
+- [ ] Add info about fonts
 - [ ] Add theme folders for other apps
   - [ ] CSS
   - [ ] Firefox
@@ -25,9 +30,13 @@ For exmaples, please see the [screenshots](https://github.com/Zorziel/Orangueen#
 
 Table of Contents:
 
-## Fonts
 
-For fonts, I am using the following fonts: 
+---
+
+
+# Fonts
+
+In my screenshots, the fonts are: 
  - [Orbitron](https://www.theleagueofmoveabletype.com/orbitron) 
  - [Russo One](https://fonts.google.com/specimen/Russo+One).  
 
@@ -35,13 +44,21 @@ All fonts listed are licensed under the [SIL Open Font License (OFL)](https://sc
 
 ---
 
-# QOwnNotes
+# Using This Theme in an Applications
 
-![image](https://user-images.githubusercontent.com/46036567/150677330-8711bfaf-5d5d-471d-8d02-b30a31c576d7.png)
+## QOwnNotes
 
-## Installing
-### Easy Method
-> Pending https://github.com/pbek/QOwnNotes/issues/2405 and https://github.com/pbek/QOwnNotes/milestone/596
+
+
+As of [QOwnnotes](https://github.com/pbek/QOwnNotes) version 22.1.10, `Orangueen` is included in QOwnNotes as one of the provided themes! 
+
+
+To see and use it: 
+1. Go to Note > Settings
+2. In the settings tree, find `Editor fonts & colors` under Interface > Editor
+3. In the drop down under `Color schema`, select `Orangueen` 
+![image](https://user-images.githubusercontent.com/46036567/151111875-7c9c3a59-9d74-4934-8195-a29689131d4a.png)
+
 
 
 ### Manual Install
@@ -54,10 +71,12 @@ All fonts listed are licensed under the [SIL Open Font License (OFL)](https://sc
 7. Edit any of the items that you want to change  
 8. Click the "Copy" button to make a copy of the theme to modify without modifying the original. 
 
-## Fonts
-For fonts, I am using the [SIL Open Font License (OFL)](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL&_sc=1) licensed [Orbitron](https://www.theleagueofmoveabletype.com/orbitron) and [Russo One](https://fonts.google.com/specimen/Russo+One).  
+
 
 ## Screenshots
+
+![image](https://user-images.githubusercontent.com/46036567/150677330-8711bfaf-5d5d-471d-8d02-b30a31c576d7.png)
+###
 
 ### Editor Window: 
 ![image](https://user-images.githubusercontent.com/46036567/150677296-810a464d-64d9-43c5-992c-ffe8fbb1fd42.png)
@@ -75,10 +94,3 @@ For fonts, I am using the [SIL Open Font License (OFL)](https://scripts.sil.org/
 https://addons.mozilla.org/en-US/firefox/addon/orangueen/
 
 ---
-
-# Chrome
-
-
----
-
-# PaleMoon
