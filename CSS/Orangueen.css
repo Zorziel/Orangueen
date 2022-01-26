@@ -1,4 +1,40 @@
+/* From QOwnNotes Export */
+h1 { margin: 5px 0 20px 0; }
+h2, h3 { margin: 10px 0 15px 0; }
+table {border-spacing: 0; border-style: solid; border-width: 1px; border-collapse: collapse; margin-top: 0.5em;}
+th, td {padding: 2px 5px;}a { color: #FF9137; text-decoration: none; } 
+pre, code { font-family: "Courier New"; font-weight: normal; font-size: 9pt; }
+pre { display: block; background-color: #444444; white-space: pre-wrap } 
+code { padding: 3px; overflow: auto; line-height: 1.45em; background-color: #444444; border-radius: 5px; color: #ffffff; } 
+.code-comment { color: #75715E; font-style: italic;} .code-string { color: #E6DB74;} .code-literal { color: #AE81FF;} 
+.code-type { color: #66D9EF;} 
+.code-builtin { color: #A6E22E;} 
+.code-keyword { color: #F92672;} 
+.code-other { color: #F92672;}  
+code {background-color: transparent;}
+body {font-family: "MS Shell Dlg 2"; font-weight: normal; font-size: 9pt; color: #cec9c3; background-color: #171717}
+h1 {font-family: "Orbitron ExtraBold"; font-weight: normal; font-weight: bold; font-size: 18pt; color: #ff5e00;}
+h2 {font-family: "Russo One"; font-weight: normal; font-weight: bold; font-size: 16pt; color: #009dff;}
+h3 {font-family: "Russo One"; font-weight: normal; font-weight: bold; font-style: italic; font-size: 14pt; color: #009dff;}
+h4 {font-family: "Russo One"; font-weight: normal; font-weight: bold; font-style: italic; font-size: 11pt; color: #009dff;}
+h5 {font-family: "Russo One"; font-weight: normal; font-weight: bold; font-style: italic; font-size: 10pt; color: #009dff;}
+h6 {font-family: "Russo One"; font-weight: normal; font-weight: bold; font-style: italic; font-size: 9pt; color: #009dff;}
+a {font-family: "MS Shell Dlg 2"; font-weight: normal; font-size: 9pt; color: #f9f900;}
+b, strong {font-family: "MS Shell Dlg 2"; font-weight: normal; font-weight: bold; font-size: 9pt; color: #29e100;}
+i, em {font-family: "MS Shell Dlg 2"; font-weight: normal; font-style: italic; font-size: 9pt; color: #29e100;}
+code, pre > code, pre {font-family: "Courier New"; font-weight: normal; font-weight: bold; font-size: 9pt; color: #ff5500; background-color: #0d0d0d}
+p > code, li > code {font-family: "Courier New"; font-weight: normal; font-weight: bold; font-size: 9pt; color: #ff5500; background-color: #111111}
+.code-keyword {font-family: "Courier New"; font-weight: normal; font-size: 9pt; color: #f700ff;}
+.code-string {font-family: "Courier New"; font-weight: normal; font-size: 9pt; color: #ffff00;}
+.code-comment {font-family: "Courier New"; font-weight: normal; font-style: italic; font-size: 9pt; color: #ff0000;}
+.code-type {font-family: "Courier New"; font-weight: normal; font-size: 9pt; color: #069bff;}
+.code-other {font-family: "Courier New"; font-weight: normal; font-size: 9pt; color: #ff5100;}
+.code-literal {font-family: "Courier New"; font-weight: normal; font-size: 9pt; color: #03ff89;}
+.code-builtin {font-family: "Courier New"; font-weight: normal; font-size: 9pt; color: #07c2f6;}
 
+
+/* FIRST ATTEMPT: */
+/*
           h1 { margin: 5px 0 5px 0; }
           h2, h3 { margin: 10px 0 15px 0; }
           table {border-spacing: 0; border-style: solid; border-width: 1px; border-collapse: collapse; margin-top: 0.5em;}
@@ -16,7 +52,7 @@
           .code-other { color: #F92672;}  
           code {background-color: transparent;}
           body {font-family: "MS Shell Dlg 2"; font-weight: normal; font-size: 12pt; color: #cec9c3; background-color: #171717}
-          /*h1 {font-family: "Orbitron ExtraBold"; font-weight: normal; font-weight: bold; font-size: 20pt; color: #ff5e00;}*/
+          h1 {font-family: "Orbitron ExtraBold"; font-weight: normal; font-weight: bold; font-size: 20pt; color: #ff5e00;}
           h2 {font-family: "Russo One"; font-weight: normal; font-weight: bold; font-size: 16pt; color: #009dff;}
           h3 {font-family: "Russo One"; font-weight: normal; font-weight: bold; font-size: 14pt; color: #009dff;}
           h4 {font-family: "Russo One"; font-weight: normal; font-weight: bold; font-size: 13pt; color: #009dff;}
@@ -35,3 +71,4 @@
           .code-literal {font-family: "Courier New"; font-weight: normal; font-size: 9pt; color: #03ff89;}
           
           .code-builtin {font-family: "Courier New"; font-weight: normal; font-size: 9pt; color: #07c2f6;}
+*/
