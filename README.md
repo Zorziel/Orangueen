@@ -1,7 +1,11 @@
-# Orangueen 
-This repository contains Orangueen themes for various apps and sites.  
 
-This is still a work in progress.. please be  patient!
+_This is still a work in progress.. please be  patient!_
+
+
+
+# Orangueen 
+
+Orangueen is a dark theme with accents of green, blue, and orange with hints of gold.
 
 **If you have any feedback on any component or colors or a problem using it in any application, please submit an [issue](https://github.com/Zorziel/Orangueen/issues)!** 
 
@@ -10,26 +14,23 @@ Orangueen originally started as an attempt to theme my various apps like my [Dar
 
 The Name `Orangueen` is just a contraction of **Orang**~~e~~ + ~~Bl~~**ue** + ~~Gre~~**en** (or **Orang**~~e~~ + ~~Bl~~**u**~~e~~ + ~~Gr~~**een** )
 
-For exmaples, please see the [screenshots](https://github.com/Zorziel/Orangueen#screenshots) section below or check out [zorz.org's privacy policy page](https://zorz.org/about.html).  
+For exmaples, please see the [screenshots](https://github.com/Zorziel/Orangueen#screenshots) section below.  
 
 ---
 
 # TO-DO 
-- [ ] Add a ToC 
+- [ ] ToC 
 - [ ] Add info about fonts
 - [ ] Add theme folders for other apps
-  - [ ] CSS
-  - [ ] Firefox
+  - [x] CSS
+  - [x] Firefox
   - [ ] PaleMoon
   - [ ] Chrome
   - [ ] Edge
-  - [ ] Terminal
+  - [ ] Microsoft Terminal
+  - [ ] Konsole
+  - [ ] KDE Plasma
   - [ ] VSCode/VSCodium
-
-
----
-
-Table of Contents:
 
 
 ---
@@ -37,13 +38,16 @@ Table of Contents:
 
 # Fonts
 
-In my screenshots, the fonts are: 
- - [Orbitron](https://www.theleagueofmoveabletype.com/orbitron) 
- - [Russo One](https://fonts.google.com/specimen/Russo+One).  
+In my screenshots, the non-standard fonts are: 
+ - **H1:** [Orbitron](https://www.theleagueofmoveabletype.com/orbitron) ([OFL](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL&_sc=1))
+ - **H2-H6:** [Russo One](https://fonts.google.com/specimen/Russo+One) ([OFL](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL&_sc=1))  
 
-All fonts listed are licensed under the [SIL Open Font License (OFL)](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL&_sc=1) 
+All fonts listed are licensed under the ([OFL](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL&_sc=1))
 
 ---
+
+# Feedback/changes
+If you have any feedback on any component or colors or a problem using it in any application, please submit an [issue](https://github.com/Zorziel/Orangueen/issues)!
 
 # Using Orangueen in Applications
 
@@ -51,15 +55,21 @@ All fonts listed are licensed under the [SIL Open Font License (OFL)](https://sc
 
 
 
-As of [QOwnnotes](https://github.com/pbek/QOwnNotes) version 22.1.10, `Orangueen` is included in QOwnNotes as one of the provided themes! 
+As of [QOwnNotes](https://github.com/pbek/QOwnNotes) version `22.1.10`, this theme is included as one of the provided/built-in themes!
 
-
+### Use the built-in theme
 To see and use it: 
 1. Go to Note > Settings
 2. In the settings tree, find `Editor fonts & colors` under Interface > Editor
 3. In the drop down under `Color schema`, select `Orangueen` 
 ![image](https://user-images.githubusercontent.com/46036567/151111875-7c9c3a59-9d74-4934-8195-a29689131d4a.png)
 
+### Modifying the built-in theme
+To modify any aspect of Orangueen in QOwnNotes, like changing any colors, fonts, font sizes, etc, simply:
+1. select the theme using the instructions above 
+2. click the `Copy` button
+3. You can now rename, modify, and change anything you don't like.  
+  - If you have feedback, I'd love to hear it!  Please either submit an issue or a PR
 
 
 ### Manual Install
@@ -73,25 +83,26 @@ To see and use it:
 8. Click the "Copy" button to make a copy of the theme to modify without modifying the original. 
 
 
+## Firefox
 
-## Screenshots
-
-![image](https://user-images.githubusercontent.com/46036567/150677330-8711bfaf-5d5d-471d-8d02-b30a31c576d7.png)
-###
-
-### Editor Window: 
-![image](https://user-images.githubusercontent.com/46036567/150677296-810a464d-64d9-43c5-992c-ffe8fbb1fd42.png)
-
-### Preview Window: 
-![image](https://user-images.githubusercontent.com/46036567/150677304-2210a527-a77f-40a5-827c-4fb6d743556b.png)
-
-### Side-by-Side
-![image](https://user-images.githubusercontent.com/46036567/150680510-6e6edd4a-95a7-4340-aa6f-620ef5f23906.png)
+https://addons.mozilla.org/en-US/firefox/addon/orangueen/
 
 ---
 
-# Firefox
+# Screenshots
 
-https://addons.mozilla.org/en-US/firefox/addon/orangueen/
+![image](https://user-images.githubusercontent.com/46036567/150677330-8711bfaf-5d5d-471d-8d02-b30a31c576d7.png)
+
+
+**Editor Window: ** 
+![image](https://user-images.githubusercontent.com/46036567/150677296-810a464d-64d9-43c5-992c-ffe8fbb1fd42.png)
+
+**Preview Window: ** 
+![image](https://user-images.githubusercontent.com/46036567/150677304-2210a527-a77f-40a5-827c-4fb6d743556b.png)
+
+**Side-by-Side: ** 
+![image](https://user-images.githubusercontent.com/46036567/150680510-6e6edd4a-95a7-4340-aa6f-620ef5f23906.png)
+
+---
 
 ---
