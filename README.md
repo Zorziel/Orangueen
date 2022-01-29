@@ -49,11 +49,15 @@ All fonts listed are licensed under the ([OFL](https://scripts.sil.org/cms/scrip
 # Feedback/changes
 If you have any feedback on any component or colors or a problem using it in any application, please submit an [issue](https://github.com/Zorziel/Orangueen/issues)!
 
+---
+
 # Using Orangueen in Applications
 
+ - QOwnNotes
+ - Firefox
+ - Plasma
+
 ## QOwnNotes
-
-
 
 As of [QOwnNotes](https://github.com/pbek/QOwnNotes) version `22.1.10`, this theme is included as one of the provided/built-in themes!
 
@@ -103,6 +107,4 @@ https://addons.mozilla.org/en-US/firefox/addon/orangueen/
 **Side-by-Side: ** 
 ![image](https://user-images.githubusercontent.com/46036567/150680510-6e6edd4a-95a7-4340-aa6f-620ef5f23906.png)
 
----
 
----
