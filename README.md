@@ -1,6 +1,17 @@
 
 _This is still a work in progress.. please be  patient!_
 
+# Orangueen 
+
+Orangueen is a dark theme with accents of green, blue, and orange with hints of gold.
+
+![image](https://user-images.githubusercontent.com/46036567/151698461-78a445e6-27af-4a0a-8d60-421ff920d948.png)
+
+
+
+
+**If you have any feedback on any component or colors or a problem using it in any application, please submit an [issue](https://github.com/Zorziel/Orangueen/issues)!** 
+
 
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
@@ -22,11 +33,6 @@ _This is still a work in progress.. please be  patient!_
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 
-# Orangueen 
-
-Orangueen is a dark theme with accents of green, blue, and orange with hints of gold.
-
-**If you have any feedback on any component or colors or a problem using it in any application, please submit an [issue](https://github.com/Zorziel/Orangueen/issues)!** 
 
 
 Orangueen originally started as an attempt to theme my various apps like my [Dark Gold theme](https://github.com/Zorziel/Dark-Gold), but then grew into something much more.  Orangueen is meant for dark themes, with orange being the important header, title and code bits; blue for non-critical headers and quotes, and green for various formatting; which all results in a nice, dark theme with pops of color throughout.  
