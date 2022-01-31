@@ -1,12 +1,16 @@
 
 _This is still a work in progress.. please be  patient!_
 
+![image](https://user-images.githubusercontent.com/46036567/151698461-78a445e6-27af-4a0a-8d60-421ff920d948.png)
+
+
 # Orangueen 
 
 Orangueen is a dark theme with accents of green, blue, and orange with hints of gold.
 
-![image](https://user-images.githubusercontent.com/46036567/151698461-78a445e6-27af-4a0a-8d60-421ff920d948.png)
+
 <!--
+![image](https://user-images.githubusercontent.com/46036567/151698461-78a445e6-27af-4a0a-8d60-421ff920d948.png)
 ![image](https://user-images.githubusercontent.com/46036567/151712029-a1215adc-377e-4800-a76a-995e68ca5265.png)
 -->
 
